@@ -22,11 +22,9 @@ This is a simple calculator web application built using HTML, CSS (with Tailwind
 
 ## Screenshots
 
-![Screenshot Dark Mode]
-(./screenshots/IMG_20240305_143033.jpg)
+![Screenshot Dark Mode](screenshots/IMG_20240305_143033.jpg)
 
-![Screenshot Dark Mode]
-(./screenshots/IMG_20240305_143045.jpg)
+![Screenshot Light Mode](screenshots/IMG_20240305_143045.jpg)
 
 ## Credits
 
