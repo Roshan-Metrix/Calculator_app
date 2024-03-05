@@ -2,6 +2,11 @@
 
 This is a simple calculator web application built using HTML, CSS (with Tailwind CSS), and vanilla JavaScript.
 
+## Live Page
+
+You can view the live version of the calculator app [here](https://neptech-roshan.github.io/Calculator_app/).
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
