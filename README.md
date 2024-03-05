@@ -34,4 +34,4 @@ This is a simple calculator web application built using HTML, CSS (with Tailwind
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
