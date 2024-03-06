@@ -562,7 +562,7 @@ video {
 
 :is(.dark .btn_style:hover) {
   --tw-bg-opacity: 1;
-  background-color: rgb(5 150 105 / var(--tw-bg-opacity));
+  background-color: rgb(16 185 129 / var(--tw-bg-opacity));
 }
 
 @media (min-width: 768px) {
