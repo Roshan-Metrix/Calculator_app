@@ -9,15 +9,17 @@
 </head>
 <body id="main" class="min-h-screen grid place-content-center bg-slate-700">
   <section class="w-[280px] h-auto rounded-2xl bg-slate-100 overflow-hidden md:w-[30rem] dark:bg-slate-950">
-    <div id="valueShow" class="min-w-full h-[250px] bg-slate-100 md:h-[25rem] relative dark:bg-slate-950">
+    <div class="min-w-full h-[250px] bg-slate-100 md:h-[25rem] relative dark:bg-slate-950">
   <button id="theme" class="w-20 border-2 h-9 m-4 bg-slate-400 rounded-full dark:bg-slate-50 float-right md:h-12 md:w-24">
       <div class="m-1 w-6 h-6 bg-slate-50 rounded-full dark:float-right dark:bg-slate-950 md:w-8 md:h-8"></div>
    </button> 
+   <!--Input Box -->
+   <p id="calc" class="text-5xl absolute bottom-4 right-5 dark:text-slate-200">0</p>
     </div>
-    <div id="numberPad" class="m-w-full h-[380px] bg-white rounded-tr-3xl rounded-tl-3xl md:h-[28rem] dark:bg-slate-900 dark:text-white">
+    <div id="numberPad" class="m-w-full h-[338px] bg-white rounded-tr-3xl p-2 rounded-tl-3xl md:h-auto dark:bg-slate-900 dark:text-white md:p-4">
       <div class="btn_parent">
         <button class="btn_style">C</button>
-        <button class="px-4 py-5 text-2xl md:text-4xl md:px-6">-/+</button>
+        <button class="btn_style">AC</button>
         <button class="btn_style">%</button>
         <button class="btn_style">/</button>
       </div>
@@ -43,7 +45,7 @@
         <button class="btn_style">00</button>
         <button class="btn_style">0</button>
         <button class="btn_style">.</button>
-        <button class="text-4xl px-6 py-2 m-2 rounded-full bg-violet-500 text-white md:px-10 md:m-0">=</button>
+        <button class="text-4xl h-[3.2rem] w-16 p-2 m-3 text-center rounded-full bg-violet-600 text-white md:mt-8 md:w-24 md:h-20 cursor-pointer hover:bg-violet-500">=</button>
       </div>
     </div>
   </section>
