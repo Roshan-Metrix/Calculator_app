@@ -4,7 +4,7 @@
 
 @layer components{
   .btn_style{
-    @apply p-4 h-16 w-20 text-2xl md:text-5xl cursor-pointer hover:bg-slate-200 hover:rounded-2xl dark:hover:bg-slate-800 md:px-8 md:my-4 md:w-32 md:h-20 text-center;
+    @apply p-4 h-16 w-20 text-2xl md:text-5xl cursor-pointer hover:bg-emerald-300 hover:rounded-2xl dark:hover:bg-emerald-600 md:px-8 md:my-4 md:w-32 md:h-20 text-center;
   }
 .btn_parent{
   @apply flex justify-center align-middle;
