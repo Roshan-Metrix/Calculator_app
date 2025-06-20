@@ -21,9 +21,8 @@ You can view the live version of the calculator app [here](https://neptech-rosha
 3. Use the buttons to input numbers and perform calculations.
 4. Click the "=" button to get the result.
 5. Click the "C" button to clear the input.
-6. Click the "AC" button to reset all input data.
-7. Click the "%" button to calculate percentages.
-8. Click the theme button to switch between light and dark mode.
+6. Click the "%" button to calculate percentages.
+7. Click the theme button to switch between light and dark mode.
 
 ## Screenshots
 
