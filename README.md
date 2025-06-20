@@ -4,7 +4,7 @@ This is a simple calculator web application built using HTML, CSS (with Tailwind
 
 ## Live Page
 
-You can view the live version of the calculator app [here](https://neptech-roshan.github.io/Calculator_app/).
+You can view the live version of the calculator app [here](https://roshan-metrix.github.io/Calculator_app/)
 
 
 ## Features
